@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>oceanlvr&#39;s Blog</title>
+  <icon>http://adameta.top/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://adameta.top/"/>
+  <updated>2020-03-20T06:56:36.454Z</updated>
+  <id>http://adameta.top/</id>
+  
+  <author>
+    <name>oceanlvr</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试mathjax插件</title>
+    <link href="http://adameta.top/2020/03/20/%E6%B5%8B%E8%AF%95mathjax%E6%8F%92%E4%BB%B6/"/>
+    <id>http://adameta.top/2020/03/20/%E6%B5%8B%E8%AF%95mathjax%E6%8F%92%E4%BB%B6/</id>
+    <published>2020-03-20T06:41:52.000Z</published>
+    <updated>2020-03-20T06:56:36.454Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="mathjax" scheme="http://adameta.top/tags/mathjax/"/>
+    
+      <category term="latex" scheme="http://adameta.top/tags/latex/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>支持区间修改的树状数组</title>
+    <link href="http://adameta.top/2020/03/20/%E6%94%AF%E6%8C%81%E5%8C%BA%E9%97%B4%E4%BF%AE%E6%94%B9%E7%9A%84%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
+    <id>http://adameta.top/2020/03/20/%E6%94%AF%E6%8C%81%E5%8C%BA%E9%97%B4%E4%BF%AE%E6%94%B9%E7%9A%84%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/</id>
+    <published>2020-03-20T06:09:52.000Z</published>
+    <updated>2020-03-20T06:30:08.622Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;支持区间修改的树状数组&quot;&gt;支持区间修改的树状数组&lt;/h1&gt;
+&lt;p&gt;能够在对数时间复杂度内支持区间修改的树状数组变种&lt;/p&gt;
+&lt;h2 id=&quot;原理&quot;&gt;原理&lt;/h2&gt;
+&lt;p&gt;对于一个数组&lt;span class=&quot;math
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="模板题" scheme="http://adameta.top/tags/%E6%A8%A1%E6%9D%BF%E9%A2%98/"/>
+    
+      <category term="树状数组" scheme="http://adameta.top/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
+    
+  </entry>
+  
+</feed>
