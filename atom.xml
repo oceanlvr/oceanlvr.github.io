@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-03-25T10:08:43.825Z</updated>
+  <updated>2020-03-26T13:10:12.402Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript 作用域</title>
+    <link href="http://adameta.top/archives/js0326.html"/>
+    <id>http://adameta.top/archives/js0326.html</id>
+    <published>2020-03-26T12:59:11.000Z</published>
+    <updated>2020-03-26T13:10:12.402Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Thu Mar 26 2020 21:16:59 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;作用域&quot;&gt;作用域&lt;/h2&gt;&lt;p&gt;本文是由「你不知道的JavaScript」整理得的读书笔记。&lt;/p&gt;&lt;h3 id=&quot;编译原理&quot;&gt;编译原理&lt;/h3&gt;&lt;p&gt;JavaScript 的编译过程经过了&lt;/p&gt;&lt;ol type=&quot;1&quot;&gt;&lt;li&gt;词法分析&lt;/li&gt;&lt;li&gt;语法分析&lt;/li&gt;&lt;li&gt;代码生成&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;三个阶段。&lt;/p&gt;&lt;p&gt;JavaScript 是一门动态语言，同时也是一门编译语言，和其他语言不同的是 JavaScript 不是&lt;strong&gt;提前&lt;/strong&gt;编译的，而是即时编译，即在引擎执行代码之前时立即编译，编译的结果不可以在不同机器之间移植。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="http://adameta.top/categories/JavaScript/"/>
+    
+      <category term="基础" scheme="http://adameta.top/categories/JavaScript/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="读书笔记" scheme="http://adameta.top/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="JavaScript" scheme="http://adameta.top/tags/JavaScript/"/>
+    
+      <category term="「你不知道的 JavaScript」" scheme="http://adameta.top/tags/%E3%80%8C%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-JavaScript%E3%80%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>背包入门</title>
