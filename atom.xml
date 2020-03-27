@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-03-26T13:10:12.402Z</updated>
+  <updated>2020-03-27T16:32:25.658Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript 词法作用域</title>
+    <link href="http://adameta.top/archives/js0327.html"/>
+    <id>http://adameta.top/archives/js0327.html</id>
+    <published>2020-03-27T16:29:52.000Z</published>
+    <updated>2020-03-27T16:32:25.658Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Sat Mar 28 2020 00:32:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;词法作用域&quot;&gt;词法作用域&lt;/h2&gt;&lt;h3 id=&quot;词法阶段&quot;&gt;词法阶段&lt;/h3&gt;&lt;p&gt;作用域有两种工作类型，一种是&lt;strong&gt;动态作用域&lt;/strong&gt;（大多为脚本语言），一种是&lt;strong&gt;词法作用域&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;在编译过程的词法阶段，是识别和解析单词的过程。&lt;/p&gt;&lt;p&gt;在词法阶段所产生的作用域叫做词法作用域。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="http://adameta.top/categories/JavaScript/"/>
+    
+      <category term="基础" scheme="http://adameta.top/categories/JavaScript/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="读书笔记" scheme="http://adameta.top/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="JavaScript" scheme="http://adameta.top/tags/JavaScript/"/>
+    
+      <category term="「你不知道的 JavaScript」" scheme="http://adameta.top/tags/%E3%80%8C%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-JavaScript%E3%80%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript 作用域</title>
@@ -378,11 +405,11 @@
     <link href="http://adameta.top/archives/blog_plan.html"/>
     <id>http://adameta.top/archives/blog_plan.html</id>
     <published>2020-03-21T08:44:09.000Z</published>
-    <updated>2020-03-22T17:05:39.726Z</updated>
+    <updated>2020-03-27T03:43:39.202Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Wed Mar 25 2020 18:11:54 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;因为 kardown 解析器对 MathJax 有支持问题，在书写某些数学公式时常常发生奇怪的错误。 最为典型的便是 &lt;code&gt;$x_1+x_2$&lt;/code&gt; 会先被 markdown 解析为斜体，之后 MathJax 就无法得到正确的公式。 为了获得更好的支持体验，在前辈&lt;a href=&quot;https://blog.yuki-nagato.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;長門有希&lt;/a&gt;建议下使用了更好的数学公式解析支持 &lt;a href=&quot;https://pandoc.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Pandoc&lt;/a&gt;，做了相关调研后，确定使用 hexo 下的 nexT 主题，将默认的解析器更换为 hexo-renderer-pandoc。完美解决了该问题&lt;a href=&quot;https://adameta.top/archives/mathjax_plugin.html&quot;&gt;测试mathjax插件&lt;/a&gt;。之后对博客做些许美化，如下：&lt;/p&gt;&lt;p&gt;计划将博客从 jeklly 迁移到 hexo, 版本为 7.7.2。&lt;/p&gt;
+      &lt;!-- build time:Sat Mar 28 2020 00:32:37 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;因为 kramdown 解析器对 MathJax 有支持问题，在书写某些数学公式时常常发生奇怪的错误。 最为典型的便是 &lt;code&gt;$x_1+x_2$&lt;/code&gt; 会先被 markdown 解析为斜体，之后 MathJax 就无法得到正确的公式。 为了获得更好的支持体验，在前辈&lt;a href=&quot;https://blog.yuki-nagato.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;長門有希&lt;/a&gt;建议下使用了更好的数学公式解析支持 &lt;a href=&quot;https://pandoc.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Pandoc&lt;/a&gt;，做了相关调研后，确定使用 hexo 下的 nexT 主题，将默认的解析器更换为 hexo-renderer-pandoc。完美解决了该问题&lt;a href=&quot;https://adameta.top/archives/mathjax_plugin.html&quot;&gt;测试mathjax插件&lt;/a&gt;。之后对博客做些许美化，如下：&lt;/p&gt;&lt;p&gt;计划将博客从 jeklly 迁移到 hexo, 版本为 7.7.2。&lt;/p&gt;
     
     </summary>
     
