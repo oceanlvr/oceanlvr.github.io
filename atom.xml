@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-03-27T16:32:25.658Z</updated>
+  <updated>2020-03-28T06:45:45.239Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="http://adameta.top/archives/js0327.html"/>
     <id>http://adameta.top/archives/js0327.html</id>
     <published>2020-03-27T16:29:52.000Z</published>
-    <updated>2020-03-27T16:32:25.658Z</updated>
+    <updated>2020-03-28T06:45:45.239Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sat Mar 28 2020 00:32:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;词法作用域&quot;&gt;词法作用域&lt;/h2&gt;&lt;h3 id=&quot;词法阶段&quot;&gt;词法阶段&lt;/h3&gt;&lt;p&gt;作用域有两种工作类型，一种是&lt;strong&gt;动态作用域&lt;/strong&gt;（大多为脚本语言），一种是&lt;strong&gt;词法作用域&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;在编译过程的词法阶段，是识别和解析单词的过程。&lt;/p&gt;&lt;p&gt;在词法阶段所产生的作用域叫做词法作用域。&lt;/p&gt;
+      &lt;!-- build time:Thu Apr 02 2020 12:16:16 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;词法作用域&quot;&gt;词法作用域&lt;/h2&gt;&lt;h3 id=&quot;词法阶段&quot;&gt;词法阶段&lt;/h3&gt;&lt;p&gt;作用域有两种工作类型，一种是&lt;strong&gt;动态作用域&lt;/strong&gt;（大多为脚本语言），一种是&lt;strong&gt;静态作用域&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;在编译过程的词法阶段，是识别和解析单词的过程。&lt;/p&gt;&lt;p&gt;在词法阶段所产生的作用域叫做词法作用域。&lt;/p&gt;
     
     </summary>
     
