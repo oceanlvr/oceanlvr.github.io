@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-03-28T06:45:45.239Z</updated>
+  <updated>2020-04-02T17:37:29.013Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>线性DP优化-方格取数</title>
+    <link href="http://adameta.top/archives/acw1027.html"/>
+    <id>http://adameta.top/archives/acw1027.html</id>
+    <published>2020-04-02T17:32:19.000Z</published>
+    <updated>2020-04-02T17:37:29.013Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Apr 03 2020 01:38:20 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;线性dp优化方格取数&quot;&gt;线性DP优化「方格取数」&lt;/h1&gt;&lt;p&gt;题目传送门 &lt;a href=&quot;https://www.acwing.com/problem/content/1029/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;「1027. 方格取数」&lt;/a&gt;&lt;/p&gt;&lt;p&gt;题目大意：&lt;/p&gt;&lt;p&gt;给定一个矩阵，矩阵填写着正数，从左上角 (1,1) 走到右下角 (n,n) 所需的代价定义为经过的数字的和。&lt;/p&gt;&lt;p&gt;问从 (1,1) 走到 (n,n) &lt;strong&gt;两次&lt;/strong&gt;所需的代价和?&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="DP" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/DP/"/>
+    
+      <category term="线性DP" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/DP/%E7%BA%BF%E6%80%A7DP/"/>
+    
+    
+      <category term="DP" scheme="http://adameta.top/tags/DP/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript 词法作用域</title>
