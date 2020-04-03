@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-04-02T17:37:29.013Z</updated>
+  <updated>2020-04-03T15:35:30.039Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>随手记 shell 脚本其一</title>
+    <link href="http://adameta.top/archives/shell0403.html"/>
+    <id>http://adameta.top/archives/shell0403.html</id>
+    <published>2020-04-03T15:33:27.000Z</published>
+    <updated>2020-04-03T15:35:30.039Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Apr 03 2020 23:35:37 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;随手记-shell-脚本其一&quot;&gt;随手记 shell 脚本其一&lt;/h1&gt;&lt;p&gt;本文是随手记 shell 脚本第一节。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="http://adameta.top/categories/Linux/"/>
+    
+      <category term="shell" scheme="http://adameta.top/categories/Linux/shell/"/>
+    
+    
+      <category term="随手记" scheme="http://adameta.top/tags/%E9%9A%8F%E6%89%8B%E8%AE%B0/"/>
+    
+      <category term="shell" scheme="http://adameta.top/tags/shell/"/>
+    
+  </entry>
   
   <entry>
     <title>线性DP优化-方格取数</title>
