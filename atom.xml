@@ -25,7 +25,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Apr 06 2020 23:48:14 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;函数作用域和块作用域&quot;&gt;函数作用域和块作用域&lt;/h2&gt;&lt;h3 id=&quot;函数中的作用域&quot;&gt;函数中的作用域&lt;/h3&gt;&lt;p&gt;在上文中已经讨论过了函数产生的作用域问题。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;函数作用域和块作用域&quot;&gt;函数作用域和块作用域&lt;/h2&gt;&lt;h3 id=&quot;函数中的作用域&quot;&gt;函数中的作用域&lt;/h3&gt;&lt;p&gt;在上文中已经讨论过了函数产生的作用域问题。&lt;/p&gt;
     
     </summary>
     
@@ -52,7 +52,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Apr 03 2020 23:35:37 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;随手记-shell-脚本其一&quot;&gt;随手记 shell 脚本其一&lt;/h1&gt;&lt;p&gt;本文是随手记 shell 脚本第一节。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;随手记-shell-脚本其一&quot;&gt;随手记 shell 脚本其一&lt;/h1&gt;&lt;p&gt;本文是随手记 shell 脚本第一节。&lt;/p&gt;
     
     </summary>
     
@@ -77,7 +77,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Apr 03 2020 01:38:20 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;线性dp优化方格取数&quot;&gt;线性DP优化「方格取数」&lt;/h1&gt;&lt;p&gt;题目传送门 &lt;a href=&quot;https://www.acwing.com/problem/content/1029/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;「1027. 方格取数」&lt;/a&gt;&lt;/p&gt;&lt;p&gt;题目大意：&lt;/p&gt;&lt;p&gt;给定一个矩阵，矩阵填写着正数，从左上角 (1,1) 走到右下角 (n,n) 所需的代价定义为经过的数字的和。&lt;/p&gt;&lt;p&gt;问从 (1,1) 走到 (n,n) &lt;strong&gt;两次&lt;/strong&gt;所需的代价和?&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;线性dp优化方格取数&quot;&gt;线性DP优化「方格取数」&lt;/h1&gt;&lt;p&gt;题目传送门 &lt;a href=&quot;https://www.acwing.com/problem/content/1029/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;「1027. 方格取数」&lt;/a&gt;&lt;/p&gt;&lt;p&gt;题目大意：&lt;/p&gt;&lt;p&gt;给定一个矩阵，矩阵填写着正数，从左上角 (1,1) 走到右下角 (n,n) 所需的代价定义为经过的数字的和。&lt;/p&gt;&lt;p&gt;问从 (1,1) 走到 (n,n) &lt;strong&gt;两次&lt;/strong&gt;所需的代价和?&lt;/p&gt;
     
     </summary>
     
@@ -102,7 +102,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;词法作用域&quot;&gt;词法作用域&lt;/h2&gt;&lt;h3 id=&quot;词法阶段&quot;&gt;词法阶段&lt;/h3&gt;&lt;p&gt;作用域有两种工作类型，一种是&lt;strong&gt;动态作用域&lt;/strong&gt;（大多为脚本语言），一种是&lt;strong&gt;静态作用域&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;在编译过程的词法阶段，是识别和解析单词的过程。&lt;/p&gt;&lt;p&gt;在词法阶段所产生的作用域叫做词法作用域。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;词法作用域&quot;&gt;词法作用域&lt;/h2&gt;&lt;h3 id=&quot;词法阶段&quot;&gt;词法阶段&lt;/h3&gt;&lt;p&gt;作用域有两种工作类型，一种是&lt;strong&gt;动态作用域&lt;/strong&gt;（大多为脚本语言），一种是&lt;strong&gt;静态作用域&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;在编译过程的词法阶段，是识别和解析单词的过程。&lt;/p&gt;&lt;p&gt;在词法阶段所产生的作用域叫做词法作用域。&lt;/p&gt;
     
     </summary>
     
@@ -129,7 +129,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;作用域&quot;&gt;作用域&lt;/h2&gt;&lt;p&gt;本文是由「你不知道的JavaScript」整理得的读书笔记。&lt;/p&gt;&lt;h3 id=&quot;编译原理&quot;&gt;编译原理&lt;/h3&gt;&lt;p&gt;JavaScript 的编译过程经过了&lt;/p&gt;&lt;ol type=&quot;1&quot;&gt;&lt;li&gt;词法分析&lt;/li&gt;&lt;li&gt;语法分析&lt;/li&gt;&lt;li&gt;代码生成&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;三个阶段。&lt;/p&gt;&lt;p&gt;JavaScript 是一门动态语言，同时也是一门编译语言，和其他语言不同的是 JavaScript 不是&lt;strong&gt;提前&lt;/strong&gt;编译的，而是即时编译，即在引擎执行代码之前时立即编译，编译的结果不可以在不同机器之间移植。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;作用域&quot;&gt;作用域&lt;/h2&gt;&lt;p&gt;本文是由「你不知道的JavaScript」整理得的读书笔记。&lt;/p&gt;&lt;h3 id=&quot;编译原理&quot;&gt;编译原理&lt;/h3&gt;&lt;p&gt;JavaScript 的编译过程经过了&lt;/p&gt;&lt;ol type=&quot;1&quot;&gt;&lt;li&gt;词法分析&lt;/li&gt;&lt;li&gt;语法分析&lt;/li&gt;&lt;li&gt;代码生成&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;三个阶段。&lt;/p&gt;&lt;p&gt;JavaScript 是一门动态语言，同时也是一门编译语言，和其他语言不同的是 JavaScript 不是&lt;strong&gt;提前&lt;/strong&gt;编译的，而是即时编译，即在引擎执行代码之前时立即编译，编译的结果不可以在不同机器之间移植。&lt;/p&gt;
     
     </summary>
     
@@ -156,7 +156,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;背包&quot;&gt;背包&lt;/h1&gt;&lt;p&gt;给出背包入门题以及代码。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;背包&quot;&gt;背包&lt;/h1&gt;&lt;p&gt;给出背包入门题以及代码。&lt;/p&gt;
     
     </summary>
     
@@ -181,7 +181,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;洛谷p1083-二分答案差分&quot;&gt;洛谷P1083 二分答案+差分&lt;/h1&gt;&lt;p&gt;算法关键词：二分答案、差分&lt;/p&gt;&lt;h2 id=&quot;题目描述&quot;&gt;题目描述&lt;/h2&gt;&lt;p&gt;题目传送门『&lt;a href=&quot;https://www.luogu.com.cn/problem/P1083&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;P1083 借教室&lt;/a&gt;』&lt;/p&gt;&lt;p&gt;数据范围：&lt;span class=&quot;math inline&quot;&gt;\(1\leq n,m\leq10^6\)&lt;/span&gt; 题目意思：给定长度为 &lt;span class=&quot;math inline&quot;&gt;\(n\)&lt;/span&gt; 的数组，和 &lt;span class=&quot;math inline&quot;&gt;\(m\)&lt;/span&gt; 次询问，每次询问把数组 &lt;span class=&quot;math inline&quot;&gt;\([l,r]\)&lt;/span&gt; 减去 &lt;span class=&quot;math inline&quot;&gt;\(d\)&lt;/span&gt; ，问第几次询问能够使得数组能够存在小于 0 的数。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;洛谷p1083-二分答案差分&quot;&gt;洛谷P1083 二分答案+差分&lt;/h1&gt;&lt;p&gt;算法关键词：二分答案、差分&lt;/p&gt;&lt;h2 id=&quot;题目描述&quot;&gt;题目描述&lt;/h2&gt;&lt;p&gt;题目传送门『&lt;a href=&quot;https://www.luogu.com.cn/problem/P1083&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;P1083 借教室&lt;/a&gt;』&lt;/p&gt;&lt;p&gt;数据范围：&lt;span class=&quot;math inline&quot;&gt;\(1\leq n,m\leq10^6\)&lt;/span&gt; 题目意思：给定长度为 &lt;span class=&quot;math inline&quot;&gt;\(n\)&lt;/span&gt; 的数组，和 &lt;span class=&quot;math inline&quot;&gt;\(m\)&lt;/span&gt; 次询问，每次询问把数组 &lt;span class=&quot;math inline&quot;&gt;\([l,r]\)&lt;/span&gt; 减去 &lt;span class=&quot;math inline&quot;&gt;\(d\)&lt;/span&gt; ，问第几次询问能够使得数组能够存在小于 0 的数。&lt;/p&gt;
     
     </summary>
     
@@ -208,7 +208,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;洛谷p2070-离散化区间&quot;&gt;洛谷P2070 离散化区间&lt;/h1&gt;&lt;p&gt;『题目传送门』：&lt;a href=&quot;https://www.luogu.com.cn/problem/P2070&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;P2070 刷墙&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zhaohaikun.cn/2020/02/10/ti-jie-p2070-shua-qiang/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;『思路1 题解原链接』&lt;/a&gt;&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;洛谷p2070-离散化区间&quot;&gt;洛谷P2070 离散化区间&lt;/h1&gt;&lt;p&gt;『题目传送门』：&lt;a href=&quot;https://www.luogu.com.cn/problem/P2070&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;P2070 刷墙&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.zhaohaikun.cn/2020/02/10/ti-jie-p2070-shua-qiang/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;『思路1 题解原链接』&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
@@ -233,7 +233,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;trie&quot;&gt;Trie&lt;/h1&gt;&lt;p&gt;Trie：高效存储和查找字符串集合的数据结构
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;trie&quot;&gt;Trie&lt;/h1&gt;&lt;p&gt;Trie：高效存储和查找字符串集合的数据结构
     
     </summary>
     
@@ -262,7 +262,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;线性dp&quot;&gt;线性DP&lt;/h1&gt;&lt;p&gt;线性DP是值得的是DP的转移过程可以由一种表画出，是由线性的转移过程，是最为一般的一类DP问题。 本文给出线性DP一些入门题目&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;线性dp&quot;&gt;线性DP&lt;/h1&gt;&lt;p&gt;线性DP是值得的是DP的转移过程可以由一种表画出，是由线性的转移过程，是最为一般的一类DP问题。 本文给出线性DP一些入门题目&lt;/p&gt;
     
     </summary>
     
@@ -289,7 +289,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;带懒标记的线段树&quot;&gt;带懒标记的线段树&lt;/h1&gt;&lt;h2 id=&quot;性质&quot;&gt;性质&lt;/h2&gt;&lt;p&gt;线段树是运用分块思想的树形结构。其主要的作用是维护&lt;strong&gt;区间信息&lt;/strong&gt;的数据结构。&lt;/p&gt;&lt;p&gt;线段树可以在 &lt;span class=&quot;math inline&quot;&gt;\(O(\text{log}(n))\)&lt;/span&gt;的时间复杂度内完成单点修改、区间修改、区间查询等操作。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;带懒标记的线段树&quot;&gt;带懒标记的线段树&lt;/h1&gt;&lt;h2 id=&quot;性质&quot;&gt;性质&lt;/h2&gt;&lt;p&gt;线段树是运用分块思想的树形结构。其主要的作用是维护&lt;strong&gt;区间信息&lt;/strong&gt;的数据结构。&lt;/p&gt;&lt;p&gt;线段树可以在 &lt;span class=&quot;math inline&quot;&gt;\(O(\text{log}(n))\)&lt;/span&gt;的时间复杂度内完成单点修改、区间修改、区间查询等操作。&lt;/p&gt;
     
     </summary>
     
@@ -316,7 +316,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;单调队列实现滑动窗口&quot;&gt;单调队列实现滑动窗口&lt;/h1&gt;&lt;p&gt;单调队列和单调栈都有一个共同的思路，删去一些无用的元素，使得整个数据结构有序。&lt;/p&gt;&lt;p&gt;关键：单调队列的实现是使用双端队列来实现的，使用&lt;strong&gt;pop_back&lt;/strong&gt;让队尾不符合序列序的弹出，并且查询队头的元素。&lt;/p&gt;&lt;p&gt;其中单调队列是使用&lt;strong&gt;双端队列&lt;/strong&gt;实现的&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;单调队列实现滑动窗口&quot;&gt;单调队列实现滑动窗口&lt;/h1&gt;&lt;p&gt;单调队列和单调栈都有一个共同的思路，删去一些无用的元素，使得整个数据结构有序。&lt;/p&gt;&lt;p&gt;关键：单调队列的实现是使用双端队列来实现的，使用&lt;strong&gt;pop_back&lt;/strong&gt;让队尾不符合序列序的弹出，并且查询队头的元素。&lt;/p&gt;&lt;p&gt;其中单调队列是使用&lt;strong&gt;双端队列&lt;/strong&gt;实现的&lt;/p&gt;
     
     </summary>
     
@@ -347,25 +347,25 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;树状数组优化lis问题&quot;&gt;树状数组优化LIS问题&lt;/h1&gt;&lt;p&gt;LIS即为最长上升子序列问题。学习动态规划问题（DP问题）中，其中有一个知识点叫最长上升子序列（longest increasing subsequence），也可以叫最长非降序子序列。&lt;/p&gt;&lt;p&gt;总所周知，LIS问题有贪心解法和DP解法。 贪心时间复杂度&lt;span class=&quot;math inline&quot;&gt;\(O(n)\)&lt;/span&gt;，DP时间复杂度&lt;span class=&quot;math inline&quot;&gt;\(O(n^2)\)&lt;/span&gt;。&lt;/p&gt;&lt;p&gt;本文将不讨论贪心的解法，&lt;del&gt;因为一般是想不到怎么去做贪心的&lt;/del&gt;。 实际上，在面试和比赛时候更常见的是使用DP做法（更加直观和具有一般性。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;树状数组优化lis问题&quot;&gt;树状数组优化LIS问题&lt;/h1&gt;&lt;p&gt;LIS即为最长上升子序列问题。学习动态规划问题（DP问题）中，其中有一个知识点叫最长上升子序列（longest increasing subsequence），也可以叫最长非降序子序列。&lt;/p&gt;&lt;p&gt;总所周知，LIS问题有贪心解法和DP解法。 贪心时间复杂度&lt;span class=&quot;math inline&quot;&gt;\(O(n)\)&lt;/span&gt;，DP时间复杂度&lt;span class=&quot;math inline&quot;&gt;\(O(n^2)\)&lt;/span&gt;。&lt;/p&gt;&lt;p&gt;本文将不讨论贪心的解法，&lt;del&gt;因为一般是想不到怎么去做贪心的&lt;/del&gt;。 实际上，在面试和比赛时候更常见的是使用DP做法（更加直观和具有一般性。&lt;/p&gt;
     
     </summary>
     
     
       <category term="算法" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="数据结构" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
       <category term="DP" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/DP/"/>
     
-      <category term="树状数组" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
+      <category term="数据结构" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
       <category term="线性DP" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/DP/%E7%BA%BF%E6%80%A7DP/"/>
     
+      <category term="树状数组" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
     
-      <category term="树状数组" scheme="http://adameta.top/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
     
       <category term="DP" scheme="http://adameta.top/tags/DP/"/>
+    
+      <category term="树状数组" scheme="http://adameta.top/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
     
   </entry>
   
@@ -378,7 +378,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;st表实现rmq&quot;&gt;ST表实现RMQ&lt;/h1&gt;&lt;p&gt;什么是RMQ?&lt;/p&gt;&lt;p&gt;RMQ 是英文 Range Maximum/Minimum Query 的缩写，表示区间最大（最小）值。&lt;/p&gt;&lt;p&gt;什么是ST表？&lt;/p&gt;&lt;p&gt;ST 表是用于解决 可重复贡献问题 的数据结构。 除 RMQ 以外，还有其它的“可重复贡献问题”。例如“区间按位和”、“区间按位或”、“区间 GCD”，ST 表都能高效地解决。(都是可以重复贡献问题)&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;st表实现rmq&quot;&gt;ST表实现RMQ&lt;/h1&gt;&lt;p&gt;什么是RMQ?&lt;/p&gt;&lt;p&gt;RMQ 是英文 Range Maximum/Minimum Query 的缩写，表示区间最大（最小）值。&lt;/p&gt;&lt;p&gt;什么是ST表？&lt;/p&gt;&lt;p&gt;ST 表是用于解决 可重复贡献问题 的数据结构。 除 RMQ 以外，还有其它的“可重复贡献问题”。例如“区间按位和”、“区间按位或”、“区间 GCD”，ST 表都能高效地解决。(都是可以重复贡献问题)&lt;/p&gt;
     
     </summary>
     
@@ -405,7 +405,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;糖果传递问题&quot;&gt;糖果传递问题&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;题目&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/124/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;『算法竞赛进阶指南』糖果传递&lt;/a&gt; 有n个小朋友坐成一圈，每人有a[i]个糖果。 每人只能给左右两人传递糖果。 每人每次传递一个糖果代价为1。 求使所有人获得均等糖果的最小代价。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;糖果传递问题&quot;&gt;糖果传递问题&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;题目&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/124/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;『算法竞赛进阶指南』糖果传递&lt;/a&gt; 有n个小朋友坐成一圈，每人有a[i]个糖果。 每人只能给左右两人传递糖果。 每人每次传递一个糖果代价为1。 求使所有人获得均等糖果的最小代价。&lt;/p&gt;
     
     </summary>
     
@@ -430,7 +430,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;acwing1247后缀表达式&quot;&gt;acwing1247后缀表达式&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/description/1249/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;后缀表达式&lt;/a&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;题目大意：n+1个+ m个-加入到表达式中使得整个序列最大&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;acwing1247后缀表达式&quot;&gt;acwing1247后缀表达式&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/description/1249/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;后缀表达式&lt;/a&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;题目大意：n+1个+ m个-加入到表达式中使得整个序列最大&lt;/p&gt;
     
     </summary>
     
@@ -455,7 +455,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;约数和&quot;&gt;约数和&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/description/1298/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;『聪明的燕姿』&lt;/a&gt;&lt;/p&gt;&lt;p&gt;题目大意：给定一个S，求出所有符合质因数分解的和为S的数x&lt;/p&gt;&lt;p&gt;思路：DFS、约数和公式&lt;/p&gt;&lt;p&gt;约数和公式&lt;/p&gt;&lt;p&gt;&lt;span class=&quot;math display&quot;&gt;\[ s=(p_1^0 + p_1^1 + ... + p_1^{\alpha_1})...(p_k^0+p_k^1+...+p_k^{\alpha_k}) \]&lt;/span&gt; 其中 &lt;span class=&quot;math inline&quot;&gt;\(p\)&lt;/span&gt; 为质因子，&lt;span class=&quot;math inline&quot;&gt;\(\alpha\)&lt;/span&gt; 为质因子幂次。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;约数和&quot;&gt;约数和&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/description/1298/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;『聪明的燕姿』&lt;/a&gt;&lt;/p&gt;&lt;p&gt;题目大意：给定一个S，求出所有符合质因数分解的和为S的数x&lt;/p&gt;&lt;p&gt;思路：DFS、约数和公式&lt;/p&gt;&lt;p&gt;约数和公式&lt;/p&gt;&lt;p&gt;&lt;span class=&quot;math display&quot;&gt;\[ s=(p_1^0 + p_1^1 + ... + p_1^{\alpha_1})...(p_k^0+p_k^1+...+p_k^{\alpha_k}) \]&lt;/span&gt; 其中 &lt;span class=&quot;math inline&quot;&gt;\(p\)&lt;/span&gt; 为质因子，&lt;span class=&quot;math inline&quot;&gt;\(\alpha\)&lt;/span&gt; 为质因子幂次。&lt;/p&gt;
     
     </summary>
     
@@ -486,7 +486,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;因为 kramdown 解析器对 MathJax 有支持问题，在书写某些数学公式时常常发生奇怪的错误。 最为典型的便是 &lt;code&gt;$x_1+x_2$&lt;/code&gt; 会先被 markdown 解析为斜体，之后 MathJax 就无法得到正确的公式。 为了获得更好的支持体验，在前辈&lt;a href=&quot;https://blog.yuki-nagato.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;長門有希&lt;/a&gt;建议下使用了更好的数学公式解析支持 &lt;a href=&quot;https://pandoc.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Pandoc&lt;/a&gt;，做了相关调研后，确定使用 hexo 下的 nexT 主题，将默认的解析器更换为 hexo-renderer-pandoc。完美解决了该问题&lt;a href=&quot;https://adameta.top/archives/mathjax_plugin.html&quot;&gt;测试mathjax插件&lt;/a&gt;。之后对博客做些许美化，如下：&lt;/p&gt;&lt;p&gt;计划将博客从 jeklly 迁移到 hexo, 版本为 7.7.2。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;因为 kramdown 解析器对 MathJax 有支持问题，在书写某些数学公式时常常发生奇怪的错误。 最为典型的便是 &lt;code&gt;$x_1+x_2$&lt;/code&gt; 会先被 markdown 解析为斜体，之后 MathJax 就无法得到正确的公式。 为了获得更好的支持体验，在前辈&lt;a href=&quot;https://blog.yuki-nagato.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;長門有希&lt;/a&gt;建议下使用了更好的数学公式解析支持 &lt;a href=&quot;https://pandoc.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Pandoc&lt;/a&gt;，做了相关调研后，确定使用 hexo 下的 nexT 主题，将默认的解析器更换为 hexo-renderer-pandoc。完美解决了该问题&lt;a href=&quot;https://adameta.top/archives/mathjax_plugin.html&quot;&gt;测试mathjax插件&lt;/a&gt;。之后对博客做些许美化，如下：&lt;/p&gt;&lt;p&gt;计划将博客从 jeklly 迁移到 hexo, 版本为 7.7.2。&lt;/p&gt;
     
     </summary>
     
@@ -507,7 +507,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;用于测试 Pandoc 解析器。 给出一些测试公式
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;用于测试 Pandoc 解析器。 给出一些测试公式
     
     </summary>
     
@@ -532,7 +532,7 @@
     
     <summary type="html">
     
-      &lt;!-- build time:Thu Apr 02 2020 12:39:14 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;支持区间修改的树状数组&quot;&gt;支持区间修改的树状数组&lt;/h1&gt;&lt;p&gt;能够在对数时间复杂度内支持区间修改的树状数组变种。 实质是两个树状数组来维护着差分前缀和，其中空间是3倍的区间长度,&lt;span class=&quot;math inline&quot;&gt;\(O(3*n)\)&lt;/span&gt;。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;支持区间修改的树状数组&quot;&gt;支持区间修改的树状数组&lt;/h1&gt;&lt;p&gt;能够在对数时间复杂度内支持区间修改的树状数组变种。 实质是两个树状数组来维护着差分前缀和，其中空间是3倍的区间长度,&lt;span class=&quot;math inline&quot;&gt;\(O(3*n)\)&lt;/span&gt;。&lt;/p&gt;
     
     </summary>
     
