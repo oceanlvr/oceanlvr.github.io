@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-04-06T15:48:09.418Z</updated>
+  <updated>2020-04-07T08:58:54.601Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="http://adameta.top/archives/js0406.html"/>
     <id>http://adameta.top/archives/js0406.html</id>
     <published>2020-04-06T15:47:15.000Z</published>
-    <updated>2020-04-06T15:48:09.418Z</updated>
+    <updated>2020-04-07T08:58:54.601Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;函数作用域和块作用域&quot;&gt;函数作用域和块作用域&lt;/h2&gt;&lt;h3 id=&quot;函数中的作用域&quot;&gt;函数中的作用域&lt;/h3&gt;&lt;p&gt;在上文中已经讨论过了函数产生的作用域问题。&lt;/p&gt;
+      &lt;!-- build time:Tue Apr 07 2020 16:58:58 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;函数作用域和块作用域&quot;&gt;函数作用域和块作用域&lt;/h2&gt;&lt;h3 id=&quot;函数中的作用域&quot;&gt;函数中的作用域&lt;/h3&gt;&lt;p&gt;在上文中已经讨论过了函数产生的作用域问题。&lt;/p&gt;
     
     </summary>
     
