@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-04-07T08:58:54.601Z</updated>
+  <updated>2020-04-08T01:35:42.032Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript 提升</title>
+    <link href="http://adameta.top/archives/js0408.html"/>
+    <id>http://adameta.top/archives/js0408.html</id>
+    <published>2020-04-08T01:33:28.000Z</published>
+    <updated>2020-04-08T01:35:42.032Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Wed Apr 08 2020 09:36:08 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;提升&quot;&gt;提升&lt;/h2&gt;&lt;p&gt;关于作用域，不管是函数作用域还是块作用域，可以总结为：任何声明在某个作用域内的变量，都将属于这个作用域。&lt;/p&gt;&lt;p&gt;但是还有些细节没有完全讨论，即声明出现的位置产生的联系。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="http://adameta.top/categories/JavaScript/"/>
+    
+      <category term="基础" scheme="http://adameta.top/categories/JavaScript/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="读书笔记" scheme="http://adameta.top/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="JavaScript" scheme="http://adameta.top/tags/JavaScript/"/>
+    
+      <category term="「你不知道的 JavaScript」" scheme="http://adameta.top/tags/%E3%80%8C%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-JavaScript%E3%80%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript 函数作用域和块作用域</title>
@@ -520,33 +547,6 @@
       <category term="mathjax" scheme="http://adameta.top/tags/mathjax/"/>
     
       <category term="latex" scheme="http://adameta.top/tags/latex/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>支持区间修改的树状数组</title>
-    <link href="http://adameta.top/archives/variant_BIT.html"/>
-    <id>http://adameta.top/archives/variant_BIT.html</id>
-    <published>2020-03-20T06:09:52.000Z</published>
-    <updated>2020-03-25T09:35:38.889Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;支持区间修改的树状数组&quot;&gt;支持区间修改的树状数组&lt;/h1&gt;&lt;p&gt;能够在对数时间复杂度内支持区间修改的树状数组变种。 实质是两个树状数组来维护着差分前缀和，其中空间是3倍的区间长度,&lt;span class=&quot;math inline&quot;&gt;\(O(3*n)\)&lt;/span&gt;。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="算法" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/"/>
-    
-      <category term="数据结构" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
-      <category term="树状数组" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
-    
-    
-      <category term="模板题" scheme="http://adameta.top/tags/%E6%A8%A1%E6%9D%BF%E9%A2%98/"/>
-    
-      <category term="树状数组" scheme="http://adameta.top/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
     
   </entry>
   
