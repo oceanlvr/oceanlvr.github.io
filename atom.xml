@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-04-08T01:35:42.032Z</updated>
+  <updated>2020-04-10T11:58:06.086Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>javascript闭包</title>
+    <link href="http://adameta.top/archives/js0410.html"/>
+    <id>http://adameta.top/archives/js0410.html</id>
+    <published>2020-04-10T11:57:37.000Z</published>
+    <updated>2020-04-10T11:58:06.086Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Apr 10 2020 19:58:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;闭包&quot;&gt;闭包&lt;/h2&gt;&lt;h3 id=&quot;问题实质&quot;&gt;问题实质&lt;/h3&gt;&lt;p&gt;闭包的定义：当函数可以记住并且访问所在的词法作用域时，就产生了闭包。即使函数是在当前词法作用域之外执行。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="http://adameta.top/categories/JavaScript/"/>
+    
+      <category term="基础" scheme="http://adameta.top/categories/JavaScript/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="读书笔记" scheme="http://adameta.top/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="JavaScript" scheme="http://adameta.top/tags/JavaScript/"/>
+    
+      <category term="「你不知道的 JavaScript」" scheme="http://adameta.top/tags/%E3%80%8C%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-JavaScript%E3%80%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript 提升</title>
@@ -522,31 +549,6 @@
     
     
       <category term="其他" scheme="http://adameta.top/tags/%E5%85%B6%E4%BB%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试mathjax插件</title>
-    <link href="http://adameta.top/archives/mathjax_plugin.html"/>
-    <id>http://adameta.top/archives/mathjax_plugin.html</id>
-    <published>2020-03-20T06:41:52.000Z</published>
-    <updated>2020-03-22T16:52:48.645Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Tue Apr 07 2020 12:21:58 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;用于测试 Pandoc 解析器。 给出一些测试公式
-    
-    </summary>
-    
-    
-      <category term="工具" scheme="http://adameta.top/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-      <category term="MathJax" scheme="http://adameta.top/categories/%E5%B7%A5%E5%85%B7/MathJax/"/>
-    
-    
-      <category term="mathjax" scheme="http://adameta.top/tags/mathjax/"/>
-    
-      <category term="latex" scheme="http://adameta.top/tags/latex/"/>
     
   </entry>
   
