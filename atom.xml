@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-04-10T11:58:06.086Z</updated>
+  <updated>2020-04-10T12:13:06.665Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -17,15 +17,15 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>javascript闭包</title>
+    <title>JavaScript 闭包</title>
     <link href="http://adameta.top/archives/js0410.html"/>
     <id>http://adameta.top/archives/js0410.html</id>
     <published>2020-04-10T11:57:37.000Z</published>
-    <updated>2020-04-10T11:58:06.086Z</updated>
+    <updated>2020-04-10T12:13:06.665Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Apr 10 2020 19:58:37 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;闭包&quot;&gt;闭包&lt;/h2&gt;&lt;h3 id=&quot;问题实质&quot;&gt;问题实质&lt;/h3&gt;&lt;p&gt;闭包的定义：当函数可以记住并且访问所在的词法作用域时，就产生了闭包。即使函数是在当前词法作用域之外执行。&lt;/p&gt;
+      &lt;!-- build time:Fri Apr 10 2020 20:13:19 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;闭包&quot;&gt;闭包&lt;/h2&gt;&lt;h3 id=&quot;问题实质&quot;&gt;问题实质&lt;/h3&gt;&lt;p&gt;闭包的定义：当函数可以记住并且访问所在的词法作用域时，就产生了闭包。即使函数是在当前词法作用域之外执行。&lt;/p&gt;
     
     </summary>
     
