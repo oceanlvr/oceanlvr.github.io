@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-08-01T01:49:35.261Z</updated>
+  <updated>2020-08-01T17:31:14.491Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript函数进阶</title>
+    <link href="http://adameta.top/archives/js0801.html"/>
+    <id>http://adameta.top/archives/js0801.html</id>
+    <published>2020-08-01T17:29:24.000Z</published>
+    <updated>2020-08-01T17:31:14.491Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Sun Aug 02 2020 01:31:21 GMT+0800 (GMT+08:00) --&gt;&lt;h1
+        
+      
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="http://adameta.top/categories/JavaScript/"/>
+    
+      <category term="基础" scheme="http://adameta.top/categories/JavaScript/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="读书笔记" scheme="http://adameta.top/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="JavaScript" scheme="http://adameta.top/tags/JavaScript/"/>
+    
+      <category term="「你不知道的 JavaScript」" scheme="http://adameta.top/tags/%E3%80%8C%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-JavaScript%E3%80%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>this 绑定初步</title>
@@ -528,31 +561,6 @@
     
     
       <category term="ST表" scheme="http://adameta.top/tags/ST%E8%A1%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>糖果传递</title>
-    <link href="http://adameta.top/archives/acw122.html"/>
-    <id>http://adameta.top/archives/acw122.html</id>
-    <published>2020-03-25T09:07:29.000Z</published>
-    <updated>2020-03-25T09:09:24.355Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Sat Jun 20 2020 01:38:47 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;糖果传递问题&quot;&gt;糖果传递问题&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;题目&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/124/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;『算法竞赛进阶指南』糖果传递&lt;/a&gt; 有n个小朋友坐成一圈，每人有a[i]个糖果。 每人只能给左右两人传递糖果。 每人每次传递一个糖果代价为1。 求使所有人获得均等糖果的最小代价。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="算法" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/"/>
-    
-      <category term="贪心" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83/"/>
-    
-      <category term="思维题" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E6%80%9D%E7%BB%B4%E9%A2%98/"/>
-    
-    
-      <category term="贪心" scheme="http://adameta.top/tags/%E8%B4%AA%E5%BF%83/"/>
     
   </entry>
   
