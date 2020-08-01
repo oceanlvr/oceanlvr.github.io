@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-06-19T17:37:48.007Z</updated>
+  <updated>2020-08-01T01:49:35.261Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>this 绑定初步</title>
+    <link href="http://adameta.top/archives/js0801.html"/>
+    <id>http://adameta.top/archives/js0801.html</id>
+    <published>2020-08-01T01:48:44.000Z</published>
+    <updated>2020-08-01T01:49:35.261Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Sat Aug 01 2020 09:49:43 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;this-绑定初步&quot;&gt;this 绑定初步&lt;/h1&gt;&lt;p&gt;因为 this 是动态绑定的，this 与其调用的位置（调用的方式）有关，而和它声明的方式无关。this 的调用位置处会创建一个&lt;strong&gt;上下文&lt;/strong&gt;，这个上下文的某个属性即为 this。&lt;/p&gt;&lt;p&gt;因此，能够结合调用栈分析并且快速找到对应 this 能够绑定的位置是十分关键的。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="http://adameta.top/categories/JavaScript/"/>
+    
+      <category term="基础" scheme="http://adameta.top/categories/JavaScript/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="读书笔记" scheme="http://adameta.top/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="JavaScript" scheme="http://adameta.top/tags/JavaScript/"/>
+    
+      <category term="「你不知道的 JavaScript」" scheme="http://adameta.top/tags/%E3%80%8C%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-JavaScript%E3%80%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>Linux 虚拟机固定IP</title>
@@ -514,31 +541,6 @@
     <summary type="html">
     
       &lt;!-- build time:Sat Jun 20 2020 01:38:47 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;糖果传递问题&quot;&gt;糖果传递问题&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;题目&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/124/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;『算法竞赛进阶指南』糖果传递&lt;/a&gt; 有n个小朋友坐成一圈，每人有a[i]个糖果。 每人只能给左右两人传递糖果。 每人每次传递一个糖果代价为1。 求使所有人获得均等糖果的最小代价。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="算法" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/"/>
-    
-      <category term="贪心" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83/"/>
-    
-      <category term="思维题" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E6%80%9D%E7%BB%B4%E9%A2%98/"/>
-    
-    
-      <category term="贪心" scheme="http://adameta.top/tags/%E8%B4%AA%E5%BF%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>后缀表达式</title>
-    <link href="http://adameta.top/archives/acw1247.html"/>
-    <id>http://adameta.top/archives/acw1247.html</id>
-    <published>2020-03-25T09:01:10.000Z</published>
-    <updated>2020-03-25T09:08:23.491Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Sat Jun 20 2020 01:38:47 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;acwing1247后缀表达式&quot;&gt;acwing1247后缀表达式&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.acwing.com/problem/content/description/1249/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;后缀表达式&lt;/a&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;题目大意：n+1个+ m个-加入到表达式中使得整个序列最大&lt;/p&gt;
     
     </summary>
     
