@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-08-02T08:25:02.948Z</updated>
+  <updated>2020-08-02T13:40:35.262Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -18,14 +18,14 @@
   
   <entry>
     <title>JavaScript 函数进阶</title>
-    <link href="http://adameta.top/archives/js0801.html"/>
-    <id>http://adameta.top/archives/js0801.html</id>
+    <link href="http://adameta.top/archives/js0802.html"/>
+    <id>http://adameta.top/archives/js0802.html</id>
     <published>2020-08-01T17:29:24.000Z</published>
-    <updated>2020-08-02T08:25:02.948Z</updated>
+    <updated>2020-08-02T13:40:35.262Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Aug 02 2020 16:25:22 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;函数进阶&quot;&gt;函数进阶&lt;/h1&gt;&lt;p&gt;本文将进一步讨论函数中的若干个重要属性：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;this&lt;/li&gt;&lt;li&gt;arguments&lt;/li&gt;&lt;li&gt;bind&lt;/li&gt;&lt;/ul&gt;
+      &lt;!-- build time:Sun Aug 02 2020 22:21:56 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;函数进阶&quot;&gt;函数进阶&lt;/h1&gt;&lt;p&gt;本文将进一步讨论函数中的若干个重要属性：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;this&lt;/li&gt;&lt;li&gt;arguments&lt;/li&gt;&lt;li&gt;bind&lt;/li&gt;&lt;/ul&gt;
     
     </summary>
     
