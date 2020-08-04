@@ -129,11 +129,11 @@
     <link href="http://adameta.top/archives/js0410.html"/>
     <id>http://adameta.top/archives/js0410.html</id>
     <published>2020-04-10T11:57:37.000Z</published>
-    <updated>2020-04-10T12:13:06.665Z</updated>
+    <updated>2020-08-04T14:23:19.943Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sat Jun 20 2020 01:38:47 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;闭包&quot;&gt;闭包&lt;/h2&gt;&lt;h3 id=&quot;问题实质&quot;&gt;问题实质&lt;/h3&gt;&lt;p&gt;闭包的定义：当函数可以记住并且访问所在的词法作用域时，就产生了闭包。即使函数是在当前词法作用域之外执行。&lt;/p&gt;
+      &lt;!-- build time:Tue Aug 04 2020 22:24:01 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;函数进阶-闭包&quot;&gt;函数进阶 闭包&lt;/h1&gt;&lt;p&gt;闭包允许函数访问并且操作函数外部的变量。&lt;strong&gt;只要变量或者函数存在于声明函数时的作用域内&lt;/strong&gt;，闭包即可访问这些函数和变量。&lt;/p&gt;&lt;p&gt;声明的函数可以在声明之后的&lt;strong&gt;任何时间&lt;/strong&gt;被调用，甚至是当该函数声明的&lt;strong&gt;作用域消失之后仍然可以调用&lt;/strong&gt;。&lt;/p&gt;
     
     </summary>
     
@@ -148,6 +148,8 @@
       <category term="JavaScript" scheme="http://adameta.top/tags/JavaScript/"/>
     
       <category term="「你不知道的 JavaScript」" scheme="http://adameta.top/tags/%E3%80%8C%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-JavaScript%E3%80%8D/"/>
+    
+      <category term="「JavaScript 忍者秘籍」" scheme="http://adameta.top/tags/%E3%80%8CJavaScript-%E5%BF%8D%E8%80%85%E7%A7%98%E7%B1%8D%E3%80%8D/"/>
     
   </entry>
   
