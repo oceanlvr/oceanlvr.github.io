@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://adameta.top/"/>
-  <updated>2020-08-02T13:40:35.262Z</updated>
+  <updated>2020-08-09T10:54:47.454Z</updated>
   <id>http://adameta.top/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>promise和生成器</title>
+    <link href="http://adameta.top/archives/js0809.html"/>
+    <id>http://adameta.top/archives/js0809.html</id>
+    <published>2020-08-09T10:53:44.000Z</published>
+    <updated>2020-08-09T10:54:47.454Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Sun Aug 09 2020 18:54:58 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;promise和生成器&quot;&gt;promise和生成器&lt;/h1&gt;&lt;h2 id=&quot;生成器基础&quot;&gt;生成器基础&lt;/h2&gt;&lt;p&gt;生成器是一种特殊类型的函数，当从头到尾运行标准函数时，它最多生成一个值。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="http://adameta.top/categories/JavaScript/"/>
+    
+      <category term="基础" scheme="http://adameta.top/categories/JavaScript/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="读书笔记" scheme="http://adameta.top/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="JavaScript" scheme="http://adameta.top/tags/JavaScript/"/>
+    
+      <category term="「你不知道的 JavaScript」" scheme="http://adameta.top/tags/%E3%80%8C%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-JavaScript%E3%80%8D/"/>
+    
+      <category term="「JavaScript 忍者秘籍」" scheme="http://adameta.top/tags/%E3%80%8CJavaScript-%E5%BF%8D%E8%80%85%E7%A7%98%E7%B1%8D%E3%80%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaScript 函数进阶</title>
@@ -530,33 +559,6 @@
       <category term="DP" scheme="http://adameta.top/tags/DP/"/>
     
       <category term="树状数组" scheme="http://adameta.top/tags/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ST表实现RMQ</title>
-    <link href="http://adameta.top/archives/luogu3865.html"/>
-    <id>http://adameta.top/archives/luogu3865.html</id>
-    <published>2020-03-25T09:10:31.000Z</published>
-    <updated>2020-03-25T09:16:00.845Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Sat Jun 20 2020 01:38:46 GMT+0800 (GMT+08:00) --&gt;&lt;h1 id=&quot;st表实现rmq&quot;&gt;ST表实现RMQ&lt;/h1&gt;&lt;p&gt;什么是RMQ?&lt;/p&gt;&lt;p&gt;RMQ 是英文 Range Maximum/Minimum Query 的缩写，表示区间最大（最小）值。&lt;/p&gt;&lt;p&gt;什么是ST表？&lt;/p&gt;&lt;p&gt;ST 表是用于解决 可重复贡献问题 的数据结构。 除 RMQ 以外，还有其它的“可重复贡献问题”。例如“区间按位和”、“区间按位或”、“区间 GCD”，ST 表都能高效地解决。(都是可以重复贡献问题)&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="算法" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/"/>
-    
-      <category term="数据结构" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
-      <category term="ST表" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/ST%E8%A1%A8/"/>
-    
-      <category term="区间题" scheme="http://adameta.top/categories/%E7%AE%97%E6%B3%95/%E5%8C%BA%E9%97%B4%E9%A2%98/"/>
-    
-    
-      <category term="ST表" scheme="http://adameta.top/tags/ST%E8%A1%A8/"/>
     
   </entry>
   
